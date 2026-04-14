@@ -25,7 +25,7 @@
 
 <br>
 
-| 🤖 **AI / ML & Data Science** | ⚙️ **Backend Engineering** | 📱 **Mobile Development** |
+|**AI / ML & Data Science** | ⚙️ **Backend Engineering** | 📱 **Mobile Development** |
 |:--|:--|:--|
 | NLP, diagnostic chatbots, regression models, predictive systems | Django REST, enterprise-grade APIs, e-commerce at scale | Flutter & Dart, performant cross-platform apps, clean UX |
 
@@ -58,7 +58,7 @@
 
 <br>
 
-**💊 Mahmood Pharmacy** &nbsp; `Fullstack`
+**Mahmood Pharmacy** &nbsp; `Fullstack`
 
 > Enterprise e-commerce infrastructure for a 31-branch pharmacy chain in Lahore. Handles real-time order tracking, medication indexing & B2C logistics at scale.
 
@@ -71,7 +71,7 @@
 
 <br>
 
-**🤖 Medical Chatbot AI** &nbsp; `AI / NLP`
+**Medical Chatbot AI** &nbsp; `AI / NLP`
 
 > Diagnostic conversational AI delivering context-aware real-time responses to patient queries. NLP backend integrated into a portable Flutter interface.
 
@@ -84,7 +84,7 @@
 
 <br>
 
-**📊 Marks Predictor** &nbsp; `ML`
+**Marks Predictor** &nbsp; `ML`
 
 > ML web app demonstrating regression algorithms to forecast student performance from custom datasets. Core data science pipeline end-to-end.
 
@@ -96,7 +96,7 @@
 
 <br>
 
-**🎓 Assignment Solver** &nbsp; `Fullstack`
+**Assignment Solver** &nbsp; `Fullstack`
 
 > Automated solution assistant — Django API connected to a Flutter UI — that processes and generates on-demand answers, saving users significant time.
 
@@ -109,7 +109,7 @@
 
 <br>
 
-**📄 XPS Converter** &nbsp; `Utility`
+**XPS Converter** &nbsp; `Utility`
 
 > Client-server ecosystem for uploading, parsing, and converting .xps document formats. Demonstrates robust file I/O and Django + Flutter integration.
 
@@ -122,7 +122,7 @@
 
 <br>
 
-**🐍 Python Automation** &nbsp; `Utility`
+**Python Automation** &nbsp; `Utility`
 
 > Pinterest downloader & image manager — automation scripts for streamlining repetitive content management and handling large image datasets efficiently.
 
@@ -157,21 +157,6 @@
 
 ---
 
-<sub>GITHUB STATS</sub>
-
-<br>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Imranxhah&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imranxhah&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
-
-<br>
-
----
 
 <sub>LANGUAGE BREAKDOWN</sub>
 
