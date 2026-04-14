@@ -1,57 +1,152 @@
-<h1 align="center">Hi 👋, I'm Imranxhah</h1>
-<h3 align="center">Passionate Software Engineer | AI & ML Enthusiast | Full-Stack (Django + Flutter) Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Imranxhah&label=Profile%20views&color=0e75b6&style=flat" alt="Imranxhah" /> </p>
+```
+// hello, world
+```
 
-<p align="center">
-  <a href="https://github.com/Imranxhah">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Smart+AI%2FML+Solutions;Full-Stack+Django+%26+Flutter;Crafting+Performant+Mobile+Apps" alt="Typing SVG" />
-  </a>
-</p>
+# Hi, I'm Imranxhah 👋
 
-## 🚀 About Me
-I'm a dedicated and versatile developer with a strong focus on **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I also specialize in building robust backend systems using **Python / Django** and crafting beautiful, performant cross-platform mobile applications with **Flutter & Dart**. 
+**Software Engineer · AI/ML Enthusiast · Full-Stack Developer**
 
-Whether it's training data models, creating a scalable REST API, or deploying a complex mobile application, I love tackling challenging problems and turning innovative ideas into reality.
+*Building intelligent systems with Python, Django & Flutter*
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Imranxhah&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Imranxhah)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat&logo=circle)
 
-## 🌟 Featured Projects
+</div>
 
-### 💊 Mahmood Pharmacy | [Customer App](https://github.com/Imranxhah/MAHMOOD_PHARMACY_CUSTOMER_APP) & [Backend App](https://github.com/Imranxhah/MAHMOOD_PHARMACY_BACKEND)
-**My flagship project.** I built the comprehensive Full-Stack E-Commerce infrastructure (Mobile App + Django Backend) for **Mahmood Pharmacy**, one of the largest and most established pharmacy chains in Lahore, Pakistan (operating 31+ branches citywide since 1956). 
-* The system is capable of handling heavy order volumes, real-time tracking, medication indexing, and enterprise-level logistics tracking, proving my exact domain expertise in constructing fully scalable B2C applications.
+---
 
-### 🤖 Medical Chatbot AI | [dr_chatbot](https://github.com/Imranxhah/dr_chatbot) & [dr_chatbot_ui](https://github.com/Imranxhah/dr_chatbot_ui)
-A dedicated diagnostic conversational AI capable of giving real-time, context-aware responses to user/patient prompts. This project extensively demonstrates my capabilities merging NLP logic into a portable Flutter UI.
+## About Me
 
-### 📊 Marks Predictor App | [marks_predictor](https://github.com/Imranxhah/marks_predictor)
-A Machine Learning / Data Science web application created to demonstrate core ML principles such as regression algorithms, training models, and accurately forecasting student performance utilizing custom datasets.
+I'm a versatile developer with deep focus on **Artificial Intelligence**, **Machine Learning**, and **Data Science** — paired with practical expertise in building scalable backend systems with **Python / Django** and performant cross-platform mobile apps with **Flutter & Dart**.
 
-### 🎓 Assignment Solver | [Backend](https://github.com/Imranxhah/assignment-solver-backend) & [Frontend](https://github.com/Imranxhah/assignment_solver_frontent)
-A full-stack (Django API connected to a Flutter UI) application acting as an automated solving assistant, saving significant time for users by processing and generating solutions on demand.
+From training predictive models to architecting enterprise REST APIs to shipping polished mobile UIs — I tackle complex problems end-to-end.
 
-### 🐍 Python Automation & Media Modules | [Pinterest Downloader](https://github.com/Imranxhah/pinterest_downloader) & [Image Manager](https://github.com/Imranxhah/image_manager)
-Utility scripts and applications developed in **Python** designed to streamline repetitive content management tasks, automate downloads, and efficiently handle large image datasets.
+---
 
-### 📄 Document Converter | [Backend XPS Converter](https://github.com/Imranxhah/xps_converter_backend) & [Flutter App](https://github.com/Imranxhah/xps_converter_flutter)
-A practical client-server ecosystem built with Django and Flutter that seamlessly uploads, parses, and converts `.xps` document formats into readable outputs, demonstrating strong file I/O manipulation.
+## 🎯 Core Focus Areas
 
-<br/>
+| 🤖 AI / ML & Data Science | ⚙️ Backend Engineering | 📱 Mobile Development |
+|:---|:---|:---|
+| NLP & conversational AI | Django REST Framework | Flutter & Dart |
+| Regression & predictive models | Enterprise-grade APIs | Cross-platform performance |
+| Diagnostic AI systems | E-commerce at scale | Clean, intuitive UX |
 
-## 📈 GitHub Activity
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imranxhah&show_icons=true&theme=radiant&hide_border=true" alt="Imranxhah's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imranxhah&layout=compact&theme=radiant&hide_border=true" alt="Top Languages" />
-</p>
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Tools**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-2496ED?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 💊 Mahmood Pharmacy — Full-Stack E-Commerce Platform
+> *Enterprise infrastructure for one of Lahore's largest pharmacy chains (31+ branches, since 1956)*
+
+Built the complete mobile app + Django backend powering real-time order tracking, medication indexing, and enterprise-level logistics for **Mahmood Pharmacy**.
+
+[![Customer App](https://img.shields.io/badge/Customer%20App-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/MAHMOOD_PHARMACY_CUSTOMER_APP)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/MAHMOOD_PHARMACY_BACKEND)
+&nbsp;
+`Django` `Flutter` `PostgreSQL` `REST API`
+
+---
+
+### 🤖 Medical Chatbot AI — Diagnostic Conversational AI
+> *Real-time, context-aware AI assistant for patient queries*
+
+NLP-powered diagnostic chatbot delivering intelligent responses to health questions. Flutter frontend connected to a Python AI backend.
+
+[![Chatbot](https://img.shields.io/badge/dr__chatbot-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/dr_chatbot)
+[![UI](https://img.shields.io/badge/Chatbot%20UI-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/dr_chatbot_ui)
+&nbsp;
+`Python` `NLP` `Flutter` `Dart`
+
+---
+
+### 📊 Marks Predictor — ML Performance Forecasting
+> *End-to-end machine learning pipeline for academic outcome prediction*
+
+Regression-based ML web application that accurately forecasts student performance from custom datasets. Demonstrates core data science workflows.
+
+[![Repo](https://img.shields.io/badge/marks__predictor-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/marks_predictor)
+&nbsp;
+`Scikit-learn` `Pandas` `Django` `ML`
+
+---
+
+### 🎓 Assignment Solver — AI-Powered Solution Assistant
+> *Full-stack automated assistant for processing and generating solutions on demand*
+
+Django API + Flutter UI that saves users significant time by processing academic queries and generating structured responses automatically.
+
+[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/assignment-solver-backend)
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/assignment_solver_frontent)
+&nbsp;
+`Django` `Flutter` `AI`
+
+---
+
+### 📄 XPS Document Converter — Client-Server File Processing
+> *Seamless document format conversion using Django + Flutter*
+
+A practical full-stack system for uploading, parsing, and converting `.xps` documents into readable outputs. Strong file I/O and API design.
+
+[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/xps_converter_backend)
+[![Flutter App](https://img.shields.io/badge/Flutter%20App-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/xps_converter_flutter)
+&nbsp;
+`Django` `Flutter` `File I/O`
+
+---
+
+### 🐍 Python Automation Modules — Content & Media Management
+> *Utility scripts for streamlining repetitive workflows at scale*
+
+Pinterest downloader and image manager tools built to automate content management pipelines and efficiently handle large media datasets.
+
+[![Pinterest Downloader](https://img.shields.io/badge/Pinterest%20Downloader-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/pinterest_downloader)
+[![Image Manager](https://img.shields.io/badge/Image%20Manager-181717?style=flat-square&logo=github)](https://github.com/Imranxhah/image_manager)
+&nbsp;
+`Python` `Automation` `APIs`
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Imranxhah&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imranxhah&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Built with Python · Django · Flutter · and a lot of coffee ☕*
+
+[![GitHub](https://img.shields.io/badge/@Imranxhah-181717?style=flat-square&logo=github)](https://github.com/Imranxhah)
+
+</div>
